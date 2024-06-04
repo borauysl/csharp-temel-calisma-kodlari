@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( dizinin elemanlarını kullanıcıdan alma)\bin\Debug\arrays ( dizinin elemanlarını kullanıcıdan alma).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( dizinin elemanlarını kullanıcıdan alma)\bin\Debug\arrays ( dizinin elemanlarını kullanıcıdan alma).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( dizinin elemanlarını kullanıcıdan alma)\bin\Debug\arrays ( dizinin elemanlarını kullanıcıdan alma).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( dizinin elemanlarını kullanıcıdan alma)\obj\Debug\arrays ( dizinin elemanlarını kullanıcıdan alma).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( dizinin elemanlarını kullanıcıdan alma)\obj\Debug\arrays ( dizinin elemanlarını kullanıcıdan alma).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( dizinin elemanlarını kullanıcıdan alma)\obj\Debug\arrays ( dizinin elemanlarını kullanıcıdan alma).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( dizinin elemanlarını kullanıcıdan alma)\obj\Debug\arrays ( dizinin elemanlarını kullanıcıdan alma).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( dizinin elemanlarını kullanıcıdan alma)\obj\Debug\arrays ( dizinin elemanlarını kullanıcıdan alma).pdb

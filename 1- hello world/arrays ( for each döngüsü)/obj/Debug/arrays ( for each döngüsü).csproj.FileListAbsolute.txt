@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( for each döngüsü)\obj\Debug\arrays ( for each döngüsü).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( for each döngüsü)\obj\Debug\arrays ( for each döngüsü).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( for each döngüsü)\obj\Debug\arrays ( for each döngüsü).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( for each döngüsü)\bin\Debug\arrays ( for each döngüsü).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( for each döngüsü)\bin\Debug\arrays ( for each döngüsü).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( for each döngüsü)\bin\Debug\arrays ( for each döngüsü).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( for each döngüsü)\obj\Debug\arrays ( for each döngüsü).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\arrays ( for each döngüsü)\obj\Debug\arrays ( for each döngüsü).pdb

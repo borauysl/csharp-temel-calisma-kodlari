@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\uygulama giriş programı\obj\Debug\uygulama giriş programı.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\uygulama giriş programı\obj\Debug\uygulama giriş programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\uygulama giriş programı\obj\Debug\uygulama giriş programı.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\uygulama giriş programı\bin\Debug\uygulama giriş programı.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\uygulama giriş programı\bin\Debug\uygulama giriş programı.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\uygulama giriş programı\bin\Debug\uygulama giriş programı.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\uygulama giriş programı\obj\Debug\uygulama giriş programı.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\uygulama giriş programı\obj\Debug\uygulama giriş programı.pdb

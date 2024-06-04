@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kosul yapisi (if else) örnek\obj\Debug\kosul yapisi (if else) örnek.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kosul yapisi (if else) örnek\obj\Debug\kosul yapisi (if else) örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kosul yapisi (if else) örnek\obj\Debug\kosul yapisi (if else) örnek.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kosul yapisi (if else) örnek\bin\Debug\kosul yapisi (if else) örnek.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kosul yapisi (if else) örnek\bin\Debug\kosul yapisi (if else) örnek.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kosul yapisi (if else) örnek\bin\Debug\kosul yapisi (if else) örnek.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kosul yapisi (if else) örnek\obj\Debug\kosul yapisi (if else) örnek.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kosul yapisi (if else) örnek\obj\Debug\kosul yapisi (if else) örnek.pdb

@@ -1,0 +1,27 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL Oluşturma ve kullanma.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL Oluşturma ve kullanma.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL Oluşturma ve kullanma.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL (Matematik).dll
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL (Matematik).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL_Oluşturma_ve_kullanma.Form1.resources
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL_Oluşturma_ve_kullanma.Properties.Resources.resources
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.csproj.GenerateResource.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.csproj.CopyComplete
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.pdb
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL Oluşturma ve kullanma.exe.config
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL Oluşturma ve kullanma.exe
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL Oluşturma ve kullanma.pdb
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL (Matematik).dll
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\bin\Debug\DLL (Matematik).pdb
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL_Oluşturma_ve_kullanma.Form1.resources
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL_Oluşturma_ve_kullanma.Properties.Resources.resources
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.csproj.GenerateResource.cache
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluş.7B211780.Up2Date
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.exe
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL Oluşturma ve kullanma\obj\Debug\DLL Oluşturma ve kullanma.pdb

@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\if - else örnek\obj\Debug\if - else örnek.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\if - else örnek\obj\Debug\if - else örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\if - else örnek\obj\Debug\if - else örnek.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\if - else örnek\bin\Debug\if - else örnek.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\if - else örnek\bin\Debug\if - else örnek.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\if - else örnek\bin\Debug\if - else örnek.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\if - else örnek\obj\Debug\if - else örnek.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\if - else örnek\obj\Debug\if - else örnek.pdb

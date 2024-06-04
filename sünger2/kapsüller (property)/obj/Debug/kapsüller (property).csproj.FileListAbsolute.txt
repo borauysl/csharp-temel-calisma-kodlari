@@ -1,0 +1,16 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\bin\Debug\kapsüller (property).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\bin\Debug\kapsüller (property).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\bin\Debug\kapsüller (property).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\bin\Debug\kapsüller (property).exe.config
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\bin\Debug\kapsüller (property).exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\bin\Debug\kapsüller (property).pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\kapsüller (property)\obj\Debug\kapsüller (property).pdb

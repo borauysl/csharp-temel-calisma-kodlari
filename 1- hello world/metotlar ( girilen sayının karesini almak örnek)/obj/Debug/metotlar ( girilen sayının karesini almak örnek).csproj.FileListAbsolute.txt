@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( girilen sayının karesini almak örnek)\bin\Debug\metotlar ( girilen sayının karesini almak örnek).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( girilen sayının karesini almak örnek)\bin\Debug\metotlar ( girilen sayının karesini almak örnek).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( girilen sayının karesini almak örnek)\bin\Debug\metotlar ( girilen sayının karesini almak örnek).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( girilen sayının karesini almak örnek)\obj\Debug\metotlar ( girilen sayının karesini almak örnek).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( girilen sayının karesini almak örnek)\obj\Debug\metotlar ( girilen sayının karesini almak örnek).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( girilen sayının karesini almak örnek)\obj\Debug\metotlar ( girilen sayının karesini almak örnek).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( girilen sayının karesini almak örnek)\obj\Debug\metotlar ( girilen sayının karesini almak örnek).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( girilen sayının karesini almak örnek)\obj\Debug\metotlar ( girilen sayının karesini almak örnek).pdb

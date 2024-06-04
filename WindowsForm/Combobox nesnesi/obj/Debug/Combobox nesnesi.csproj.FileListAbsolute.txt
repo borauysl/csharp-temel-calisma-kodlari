@@ -1,0 +1,11 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\bin\Debug\Combobox nesnesi.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\bin\Debug\Combobox nesnesi.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\bin\Debug\Combobox nesnesi.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\obj\Debug\Combobox nesnesi.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\obj\Debug\Combobox nesnesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\obj\Debug\Combobox_nesnesi.Form1.resources
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\obj\Debug\Combobox_nesnesi.Properties.Resources.resources
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\obj\Debug\Combobox nesnesi.csproj.GenerateResource.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\obj\Debug\Combobox nesnesi.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\obj\Debug\Combobox nesnesi.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\Combobox nesnesi\obj\Debug\Combobox nesnesi.pdb

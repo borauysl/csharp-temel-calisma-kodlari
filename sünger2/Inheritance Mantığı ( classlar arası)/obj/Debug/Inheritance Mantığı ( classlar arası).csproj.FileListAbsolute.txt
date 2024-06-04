@@ -1,0 +1,8 @@
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\Inheritance Mantığı ( classlar arası)\bin\Debug\Inheritance Mantığı ( classlar arası).exe.config
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\Inheritance Mantığı ( classlar arası)\bin\Debug\Inheritance Mantığı ( classlar arası).exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\Inheritance Mantığı ( classlar arası)\bin\Debug\Inheritance Mantığı ( classlar arası).pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\Inheritance Mantığı ( classlar arası)\obj\Debug\Inheritance Mantığı ( classlar arası).csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\Inheritance Mantığı ( classlar arası)\obj\Debug\Inheritance Mantığı ( classlar arası).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\Inheritance Mantığı ( classlar arası)\obj\Debug\Inheritance Mantığı ( classlar arası).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\Inheritance Mantığı ( classlar arası)\obj\Debug\Inheritance Mantığı ( classlar arası).exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\Inheritance Mantığı ( classlar arası)\obj\Debug\Inheritance Mantığı ( classlar arası).pdb

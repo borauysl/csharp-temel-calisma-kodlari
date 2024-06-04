@@ -1,0 +1,11 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\bin\Debug\message box.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\bin\Debug\message box.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\bin\Debug\message box.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\obj\Debug\message box.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\obj\Debug\message box.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\obj\Debug\message_box.Form1.resources
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\obj\Debug\message_box.Properties.Resources.resources
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\obj\Debug\message box.csproj.GenerateResource.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\obj\Debug\message box.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\obj\Debug\message box.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\message box\obj\Debug\message box.pdb

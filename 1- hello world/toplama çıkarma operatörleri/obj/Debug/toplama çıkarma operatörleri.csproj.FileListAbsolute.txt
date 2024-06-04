@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\toplama çıkarma operatörleri\bin\Debug\toplama çıkarma operatörleri.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\toplama çıkarma operatörleri\bin\Debug\toplama çıkarma operatörleri.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\toplama çıkarma operatörleri\bin\Debug\toplama çıkarma operatörleri.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\toplama çıkarma operatörleri\obj\Debug\toplama çıkarma operatörleri.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\toplama çıkarma operatörleri\obj\Debug\toplama çıkarma operatörleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\toplama çıkarma operatörleri\obj\Debug\toplama çıkarma operatörleri.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\toplama çıkarma operatörleri\obj\Debug\toplama çıkarma operatörleri.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\toplama çıkarma operatörleri\obj\Debug\toplama çıkarma operatörleri.pdb

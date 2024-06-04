@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\büyük ve büyük eşittir (operatör)\bin\Debug\büyük ve büyük eşittir (operatör).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\büyük ve büyük eşittir (operatör)\bin\Debug\büyük ve büyük eşittir (operatör).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\büyük ve büyük eşittir (operatör)\bin\Debug\büyük ve büyük eşittir (operatör).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\büyük ve büyük eşittir (operatör)\obj\Debug\büyük ve büyük eşittir - küçük ve küçük eşittir (operatör).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\büyük ve büyük eşittir (operatör)\obj\Debug\büyük ve büyük eşittir - küçük ve küçük eşittir (operatör).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\büyük ve büyük eşittir (operatör)\obj\Debug\büyük ve büyük eşittir - küçük ve küçük eşittir (operatör).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\büyük ve büyük eşittir (operatör)\obj\Debug\büyük ve büyük eşittir (operatör).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\büyük ve büyük eşittir (operatör)\obj\Debug\büyük ve büyük eşittir (operatör).pdb

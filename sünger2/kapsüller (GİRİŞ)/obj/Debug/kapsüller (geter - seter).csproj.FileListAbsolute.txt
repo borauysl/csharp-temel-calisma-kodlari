@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (GİRİŞ)\bin\Debug\kapsüller (GİRİŞ).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (GİRİŞ)\bin\Debug\kapsüller (GİRİŞ).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (GİRİŞ)\bin\Debug\kapsüller (GİRİŞ).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (GİRİŞ)\obj\Debug\kapsüller (geter - seter).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (GİRİŞ)\obj\Debug\kapsüller (geter - seter).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (GİRİŞ)\obj\Debug\kapsüller (geter - seter).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (GİRİŞ)\obj\Debug\kapsüller (GİRİŞ).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\kapsüller (GİRİŞ)\obj\Debug\kapsüller (GİRİŞ).pdb

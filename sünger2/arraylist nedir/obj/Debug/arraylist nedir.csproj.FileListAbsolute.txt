@@ -1,0 +1,8 @@
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\arraylist nedir\bin\Debug\arraylist nedir.exe.config
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\arraylist nedir\bin\Debug\arraylist nedir.exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\arraylist nedir\bin\Debug\arraylist nedir.pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\arraylist nedir\obj\Debug\arraylist nedir.csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\arraylist nedir\obj\Debug\arraylist nedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\arraylist nedir\obj\Debug\arraylist nedir.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\arraylist nedir\obj\Debug\arraylist nedir.exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\arraylist nedir\obj\Debug\arraylist nedir.pdb

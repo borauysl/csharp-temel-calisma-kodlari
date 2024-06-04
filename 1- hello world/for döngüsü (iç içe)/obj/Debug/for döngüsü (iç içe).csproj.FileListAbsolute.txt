@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\for döngüsü (iç içe)\obj\Debug\for döngüsü (iç içe).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\for döngüsü (iç içe)\obj\Debug\for döngüsü (iç içe).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\for döngüsü (iç içe)\obj\Debug\for döngüsü (iç içe).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\for döngüsü (iç içe)\bin\Debug\for döngüsü (iç içe).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\for döngüsü (iç içe)\bin\Debug\for döngüsü (iç içe).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\for döngüsü (iç içe)\bin\Debug\for döngüsü (iç içe).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\for döngüsü (iç içe)\obj\Debug\for döngüsü (iç içe).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\for döngüsü (iç içe)\obj\Debug\for döngüsü (iç içe).pdb

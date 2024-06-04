@@ -1,0 +1,3 @@
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\test\obj\Debug\test.csproj.CoreCompileInputs.cache

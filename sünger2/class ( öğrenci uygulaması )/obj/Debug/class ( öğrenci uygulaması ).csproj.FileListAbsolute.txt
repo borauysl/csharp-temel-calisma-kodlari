@@ -1,0 +1,16 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\bin\Debug\class ( öğrenci uygulaması ).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\bin\Debug\class ( öğrenci uygulaması ).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\bin\Debug\class ( öğrenci uygulaması ).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\bin\Debug\class ( öğrenci uygulaması ).exe.config
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\bin\Debug\class ( öğrenci uygulaması ).exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\bin\Debug\class ( öğrenci uygulaması ).pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\class ( öğrenci uygulaması )\obj\Debug\class ( öğrenci uygulaması ).pdb

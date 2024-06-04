@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\eşit değildir (operatör)\bin\Debug\eşit değildir (operatör).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\eşit değildir (operatör)\bin\Debug\eşit değildir (operatör).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\eşit değildir (operatör)\bin\Debug\eşit değildir (operatör).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\eşit değildir (operatör)\obj\Debug\eşit değildir (operatör).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\eşit değildir (operatör)\obj\Debug\eşit değildir (operatör).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\eşit değildir (operatör)\obj\Debug\eşit değildir (operatör).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\eşit değildir (operatör)\obj\Debug\eşit değildir (operatör).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\eşit değildir (operatör)\obj\Debug\eşit değildir (operatör).pdb

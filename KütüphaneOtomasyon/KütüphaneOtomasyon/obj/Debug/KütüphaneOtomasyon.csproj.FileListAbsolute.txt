@@ -1,0 +1,26 @@
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form1.resources
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.AdminSayfasi.resources
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.UserSayfasi.resources
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.AdminSayfasi.resources
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form1.resources
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.UserSayfasi.resources
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\gta1b\Desktop\kodcuklar\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb

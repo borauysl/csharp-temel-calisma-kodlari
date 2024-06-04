@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\break ve counter anahtar kelimeleri\bin\Debug\break ve counter anahtar kelimeleri.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\break ve counter anahtar kelimeleri\bin\Debug\break ve counter anahtar kelimeleri.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\break ve counter anahtar kelimeleri\bin\Debug\break ve counter anahtar kelimeleri.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\break ve counter anahtar kelimeleri\obj\Debug\break ve counter anahtar kelimeleri.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\break ve counter anahtar kelimeleri\obj\Debug\break ve counter anahtar kelimeleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\break ve counter anahtar kelimeleri\obj\Debug\break ve counter anahtar kelimeleri.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\break ve counter anahtar kelimeleri\obj\Debug\break ve counter anahtar kelimeleri.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\break ve counter anahtar kelimeleri\obj\Debug\break ve counter anahtar kelimeleri.pdb

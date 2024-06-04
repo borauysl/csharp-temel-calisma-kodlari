@@ -1,0 +1,15 @@
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\gta1b\Desktop\kodcuklar\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\gta1b\Desktop\kodcuklar\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\gta1b\Desktop\kodcuklar\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\gta1b\Desktop\kodcuklar\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\kodcuklar\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\kodcuklar\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\gta1b\Desktop\kodcuklar\deneme\deneme\obj\Debug\deneme.pdb

@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\girilen sayının toplamının ortalaması\bin\Debug\girilen sayının toplamının ortalaması.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\girilen sayının toplamının ortalaması\bin\Debug\girilen sayının toplamının ortalaması.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\girilen sayının toplamının ortalaması\bin\Debug\girilen sayının toplamının ortalaması.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\girilen sayının toplamının ortalaması\obj\Debug\girilen sayının toplamının ortalaması.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\girilen sayının toplamının ortalaması\obj\Debug\girilen sayının toplamının ortalaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\girilen sayının toplamının ortalaması\obj\Debug\girilen sayının toplamının ortalaması.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\girilen sayının toplamının ortalaması\obj\Debug\girilen sayının toplamının ortalaması.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\girilen sayının toplamının ortalaması\obj\Debug\girilen sayının toplamının ortalaması.pdb

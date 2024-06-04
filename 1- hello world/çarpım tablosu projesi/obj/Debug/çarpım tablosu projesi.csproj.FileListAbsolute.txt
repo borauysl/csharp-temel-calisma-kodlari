@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\çarpım tablosu projesi\bin\Debug\çarpım tablosu projesi.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\çarpım tablosu projesi\bin\Debug\çarpım tablosu projesi.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\çarpım tablosu projesi\bin\Debug\çarpım tablosu projesi.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\çarpım tablosu projesi\obj\Debug\çarpım tablosu projesi.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\çarpım tablosu projesi\obj\Debug\çarpım tablosu projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\çarpım tablosu projesi\obj\Debug\çarpım tablosu projesi.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\çarpım tablosu projesi\obj\Debug\çarpım tablosu projesi.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\çarpım tablosu projesi\obj\Debug\çarpım tablosu projesi.pdb

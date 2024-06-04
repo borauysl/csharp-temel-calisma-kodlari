@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kullanıcıdan değer alma\bin\Debug\kullanıcıdan değer alma.exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kullanıcıdan değer alma\bin\Debug\kullanıcıdan değer alma.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kullanıcıdan değer alma\bin\Debug\kullanıcıdan değer alma.pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\kullanıcıdan değer alma\obj\Debug\kullanıcıdan değer alma.pdb

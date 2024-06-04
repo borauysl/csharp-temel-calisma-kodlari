@@ -1,0 +1,8 @@
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\inheritance (ÖRNEK)\bin\Debug\inheritance (ÖRNEK).exe.config
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\inheritance (ÖRNEK)\bin\Debug\inheritance (ÖRNEK).exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\inheritance (ÖRNEK)\bin\Debug\inheritance (ÖRNEK).pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\inheritance (ÖRNEK)\obj\Debug\inheritance (ÖRNEK).csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\inheritance (ÖRNEK)\obj\Debug\inheritance (ÖRNEK).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\inheritance (ÖRNEK)\obj\Debug\inheritance (ÖRNEK).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\inheritance (ÖRNEK)\obj\Debug\inheritance (ÖRNEK).exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\inheritance (ÖRNEK)\obj\Debug\inheritance (ÖRNEK).pdb

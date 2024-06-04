@@ -1,0 +1,8 @@
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\static yapıcı metot\bin\Debug\static yapıcı metot.exe.config
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\static yapıcı metot\bin\Debug\static yapıcı metot.exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\static yapıcı metot\bin\Debug\static yapıcı metot.pdb
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\static yapıcı metot\obj\Debug\static yapıcı metot.csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\static yapıcı metot\obj\Debug\static yapıcı metot.csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\static yapıcı metot\obj\Debug\static yapıcı metot.csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\static yapıcı metot\obj\Debug\static yapıcı metot.exe
+C:\Users\gta1b\Desktop\activisiona rakip oyunun temelleri\sünger2\static yapıcı metot\obj\Debug\static yapıcı metot.pdb

@@ -1,0 +1,12 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL (Matematik)\bin\Debug\DLL (Matematik).dll
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL (Matematik)\bin\Debug\DLL (Matematik).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL (Matematik)\obj\Debug\DLL (Matematik).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL (Matematik)\obj\Debug\DLL (Matematik).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL (Matematik)\obj\Debug\DLL (Matematik).dll
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\WindowsForm\DLL (Matematik)\obj\Debug\DLL (Matematik).pdb
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL (Matematik)\bin\Debug\DLL (Matematik).dll
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL (Matematik)\bin\Debug\DLL (Matematik).pdb
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL (Matematik)\obj\Debug\DLL (Matematik).csproj.AssemblyReference.cache
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL (Matematik)\obj\Debug\DLL (Matematik).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL (Matematik)\obj\Debug\DLL (Matematik).dll
+C:\Users\gta1b\Desktop\kodcuklar\WindowsForm\DLL (Matematik)\obj\Debug\DLL (Matematik).pdb

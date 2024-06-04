@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( parametreli metot kullanımı)\bin\Debug\metotlar ( parametreli metot kullanımı).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( parametreli metot kullanımı)\bin\Debug\metotlar ( parametreli metot kullanımı).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( parametreli metot kullanımı)\bin\Debug\metotlar ( parametreli metot kullanımı).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( parametreli metot kullanımı)\obj\Debug\metotlar ( parametreli metot kullanımı).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( parametreli metot kullanımı)\obj\Debug\metotlar ( parametreli metot kullanımı).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( parametreli metot kullanımı)\obj\Debug\metotlar ( parametreli metot kullanımı).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( parametreli metot kullanımı)\obj\Debug\metotlar ( parametreli metot kullanımı).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\1- hello world\metotlar ( parametreli metot kullanımı)\obj\Debug\metotlar ( parametreli metot kullanımı).pdb

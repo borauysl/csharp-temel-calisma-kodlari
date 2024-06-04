@@ -1,0 +1,8 @@
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\metotlar (girilen 2 sayının büyük olanını bulma örnek3)\bin\Debug\metotlar (girilen 2 sayının büyük olanını bulma örnek3).exe.config
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\metotlar (girilen 2 sayının büyük olanını bulma örnek3)\bin\Debug\metotlar (girilen 2 sayının büyük olanını bulma örnek3).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\metotlar (girilen 2 sayının büyük olanını bulma örnek3)\bin\Debug\metotlar (girilen 2 sayının büyük olanını bulma örnek3).pdb
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\metotlar (girilen 2 sayının büyük olanını bulma örnek3)\obj\Debug\metotlar (girilen 2 sayının büyük olanını bulma örnek3).csproj.AssemblyReference.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\metotlar (girilen 2 sayının büyük olanını bulma örnek3)\obj\Debug\metotlar (girilen 2 sayının büyük olanını bulma örnek3).csproj.SuggestedBindingRedirects.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\metotlar (girilen 2 sayının büyük olanını bulma örnek3)\obj\Debug\metotlar (girilen 2 sayının büyük olanını bulma örnek3).csproj.CoreCompileInputs.cache
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\metotlar (girilen 2 sayının büyük olanını bulma örnek3)\obj\Debug\metotlar (girilen 2 sayının büyük olanını bulma örnek3).exe
+C:\Users\gta1b\OneDrive\Masaüstü\activisiona rakip oyunun temelleri\sünger2\metotlar (girilen 2 sayının büyük olanını bulma örnek3)\obj\Debug\metotlar (girilen 2 sayının büyük olanını bulma örnek3).pdb
